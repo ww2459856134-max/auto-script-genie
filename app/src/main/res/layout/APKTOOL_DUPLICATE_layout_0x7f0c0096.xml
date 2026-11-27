@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0800bb" android:paddingTop="50.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06003b" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09036a" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="文件名" />
+    <TextView android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06003b" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0902f0" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="15.0dip" android:text="保存" android:layout_alignParentRight="true" />
+    <TextView android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06003b" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09012d" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="关闭" android:layout_toLeftOf="@id/APKTOOL_DUPLICATE_id_0x7f0902f0" />
+    <TextView android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06003b" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0900b3" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="清理" android:layout_toLeftOf="@id/APKTOOL_DUPLICATE_id_0x7f09012d" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="50.0dip">
+        <EditText android:textSize="14.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06003b" android:textColorHint="@color/APKTOOL_DUPLICATE_color_0x7f06004d" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090384" android:background="@color/APKTOOL_DUPLICATE_color_0x7f060088" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="请输入文件编辑内容" />
+    </ScrollView>
+</RelativeLayout>

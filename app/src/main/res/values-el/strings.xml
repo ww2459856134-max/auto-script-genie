@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Πλοήγηση προς τα επάνω</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Περισσότερες επιλογές</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Τέλος</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Εμφάνιση όλων</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Επιλέξτε μια εφαρμογή</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">διάστημα</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Αναζήτηση…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Διαγραφή ερωτήματος</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Ερώτημα αναζήτησης</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Αναζήτηση</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Υποβολή ερωτήματος</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Φωνητική αναζήτηση</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Κοινοποίηση σε</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Κοινοποίηση στην εφαρμογή %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Σύμπτυξη</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Σύνθετες</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Αναζήτηση</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ΑΝΕΝΕΡΓΗ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ΕΝΕΡΓΗ</string>
+</resources>

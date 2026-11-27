@@ -1,0 +1,45 @@
+package org.openxmlformats.schemas.spreadsheetml.x2006.main.impl;
+
+import org.apache.poi.javax.xml.namespace.QName;
+import org.apache.xmlbeans.SchemaType;
+import org.apache.xmlbeans.impl.values.XmlComplexContentImpl;
+import org.openxmlformats.schemas.spreadsheetml.x2006.main.CTWorksheet;
+import org.openxmlformats.schemas.spreadsheetml.x2006.main.WorksheetDocument;
+
+/* loaded from: classes2.dex */
+public class WorksheetDocumentImpl extends XmlComplexContentImpl implements WorksheetDocument {
+    private static final QName[] PROPERTY_QNAME = {new QName("http://schemas.openxmlformats.org/spreadsheetml/2006/main", "worksheet")};
+    private static final long serialVersionUID = 1;
+
+    public WorksheetDocumentImpl(SchemaType schemaType) {
+        super(schemaType);
+    }
+
+    @Override // org.openxmlformats.schemas.spreadsheetml.x2006.main.WorksheetDocument
+    public CTWorksheet addNewWorksheet() {
+        CTWorksheet cTWorksheet;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTWorksheet = (CTWorksheet) get_store().add_element_user(PROPERTY_QNAME[0]);
+        }
+        return cTWorksheet;
+    }
+
+    @Override // org.openxmlformats.schemas.spreadsheetml.x2006.main.WorksheetDocument
+    public CTWorksheet getWorksheet() {
+        CTWorksheet cTWorksheet;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTWorksheet = (CTWorksheet) get_store().find_element_user(PROPERTY_QNAME[0], 0);
+            if (cTWorksheet == null) {
+                cTWorksheet = null;
+            }
+        }
+        return cTWorksheet;
+    }
+
+    @Override // org.openxmlformats.schemas.spreadsheetml.x2006.main.WorksheetDocument
+    public void setWorksheet(CTWorksheet cTWorksheet) throws Throwable {
+        generatedSetterHelperImpl(cTWorksheet, PROPERTY_QNAME[0], 0, (short) 1);
+    }
+}

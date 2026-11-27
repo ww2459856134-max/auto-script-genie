@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">මුල් පිටුවට සංචාලනය කරන්න</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">ඉහළට සංචාලනය කරන්න</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">තවත් විකල්ප</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">කළා</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">සියල්ල බලන්න</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">යෙදුමක් තෝරන්න</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ක්‍රියාවිරහිතයි</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ක්‍රියාත්මකයි</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">මකන්න</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">සොයන්න...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">විමසුම හිස් කරන්න</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">සෙවුම් විමසුම</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">සෙවීම</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">විමසුම යොමු කරන්න</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">හඬ සෙවීම</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">සමග බෙදා ගන්න</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s සමඟ බෙදා ගන්න</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">හකුළන්න</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">උසස්</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">සෙවීම</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ක්‍රියාවිරහිතයි</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ක්‍රියාත්මකයි</string>
+</resources>

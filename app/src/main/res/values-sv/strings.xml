@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Navigera hem</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Navigera uppåt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Fler alternativ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Klar</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Visa alla</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Välj en app</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">AV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">PÅ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt + </string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl + </string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">retur</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Funktion + </string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta + </string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Skift + </string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">blanksteg</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Symbol + </string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Meny + </string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Sök …</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Ta bort frågan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Sökfråga</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Sök</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Skicka fråga</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Röstsökning</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Dela med</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Dela med %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Komprimera</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Avancerat</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Sök</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">AV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">PÅ</string>
+</resources>

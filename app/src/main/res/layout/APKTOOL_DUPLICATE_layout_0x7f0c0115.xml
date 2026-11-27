@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:fitsSystemWindows="true" android:clipToPadding="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="13.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06003b" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090064" android:background="@color/APKTOOL_DUPLICATE_color_0x7f060023" android:paddingLeft="15.0dip" android:paddingTop="15.0dip" android:paddingRight="15.0dip" android:paddingBottom="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:text="点击先开启动态壁纸权限" android:drawableRight="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0800c3" android:layout_marginHorizontal="20.0dip" android:paddingHorizontal="15.0dip" android:paddingVertical="15.0dip" />
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09018d" android:paddingTop="6.0dip" android:paddingBottom="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingVertical="6.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="12.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06008a" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0903e7" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0801bb" android:paddingLeft="15.0dip" android:paddingTop="5.0dip" android:paddingRight="15.0dip" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="文件管理器" android:singleLine="true" android:paddingHorizontal="15.0dip" android:paddingVertical="5.0dip" />
+    <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f090147" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0800c3" />
+</LinearLayout>

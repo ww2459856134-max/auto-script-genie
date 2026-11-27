@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Движи се кон дома</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Движи се нагоре</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Повеќе опции</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Готово</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Прикажи ги сите</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Избери апликација</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ИСКЛУЧЕНО</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ВКЛУЧЕНО</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">избриши</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">вселена</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Пребарување…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Исчисти барање</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Пребарај барање</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Пребарај</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Испрати барање</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Гласовно пребарување</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Сподели со</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Сподели со %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Собери</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Напредни</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Пребарај</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ИСКЛУЧЕНО</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ВКЛУЧЕНО</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">گھر کی طرف نیویگیٹ کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">اوپر نیویگیٹ کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">مزید اختیارات</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">ہو گیا</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">سبھی دیکھیں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">ایک ایپ منتخب کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">آف</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">آن</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+‎</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+‎</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+‎</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+‎</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+‎</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+‎</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+‎</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">تلاش کریں…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">استفسار صاف کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">تلاش کا استفسار</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">تلاش کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">استفسار جمع کرائیں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">صوتی تلاش</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">اس کے ساتھ اشتراک کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s کے ساتھ اشتراک کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">سکیڑیں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">جدید ترین</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">تلاش کریں</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">+999</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s، %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">آف ہے</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">آن</string>
+</resources>

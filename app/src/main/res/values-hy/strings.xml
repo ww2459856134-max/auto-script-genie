@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Անցնել գլխավոր էջ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Անցնել վերև</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Այլ ընտրանքներ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Պատրաստ է</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Տեսնել բոլորը</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Ընտրել հավելված</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ԱՆՋԱՏԵԼ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ՄԻԱՑՆԵԼ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">Delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">բացատ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Որոնում…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Ջնջել հարցումը</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Որոնման հարցում</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Որոնել</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Ուղարկել հարցումը</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Ձայնային որոնում</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Կիսվել…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Կիսվել %s հավելվածի միջոցով</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Ծալել</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Լրացուցիչ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Որոնել</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ԱՆՋԱՏԱԾ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ՄԻԱՑՎԱԾ</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_horizontal" android:background="#99000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="320.0dip" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <LinearLayout android:orientation="vertical" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0800bb" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="13.0sp" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06003c" android:layout_gravity="center_horizontal" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090407" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="16.0dip" android:text="脚本参数" />
+            <androidx.recyclerview.widget.RecyclerView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0902e2" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080076" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginHorizontal="10.0dip" />
+            <TextView android:textSize="11.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060048" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="15.0dip" android:text="参数使用场景：当你分享给其他用户使用时，不希望他能修改脚本内容，但是有些变量又需要他自定义时，这时候参数就派上用场了，你可以预制一些参数，在脚本中用变量来调用，然后其他用户在使用你的脚本时只能修改参数，参数在脚本中可以使用变量${xx}来调用。" />
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="15.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:layout_marginBottom="25.0dip" android:paddingHorizontal="15.0dip">
+                <TextView android:textSize="13.299988sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090081" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080091" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginRight="12.0dip" android:minWidth="105.0dip" android:text="取消" android:layout_weight="1.0" />
+                <TextView android:textSize="13.299988sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090084" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080092" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="12.0dip" android:minWidth="105.0dip" android:text="确定" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

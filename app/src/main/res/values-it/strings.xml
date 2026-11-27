@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Portami a casa</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Torna indietro</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Altre opzioni</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Fine</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Mostra tutto</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">"Scelta di un'app"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">OFF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ON</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">ALT +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">CTRL +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">CANC</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">INVIO</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">FUNZIONE +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">META +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">MAIUSC +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">SPAZIO</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">SYM +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">MENU +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Cerca…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Cancella query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Query di ricerca</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Cerca</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Invia query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Ricerca vocale</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Condividi con</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Condividi tramite %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Comprimi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Avanzate</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Cerca</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">OFF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ON</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Idite na početnu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Idite nagore</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Još opcija</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Gotovo</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Prikaži sve</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Izaberite aplikaciju</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ISKLJUČENO</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">UKLJUČENO</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">taster za razmak</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Pretražite…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Obrišite upit</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Pretražite upit</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Pretražite</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Pošaljite upit</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Glasovna pretraga</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Delite pomoću</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Delite pomoću aplikacije %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Skupi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Napredno</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Pretražite</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ISKLJUČENO</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">UKLJUČENO</string>
+</resources>

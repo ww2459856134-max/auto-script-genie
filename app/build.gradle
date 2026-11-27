@@ -1,0 +1,38 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.jsj.autojs'
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.jsj.autojs"
+        minSdk 24
+        targetSdk 33
+        versionCode 202611190
+        versionName "26.11.19"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+
+    packagingOptions {
+        jniLibs {
+            useLegacyPackaging true
+        }
+    }
+}
+
+// 说明：原始依赖（AndroidX、POI、OpenCV、Tesseract、腾讯 SDK 等）
+// 未包含在本整理工程中，直接 sync 会缺依赖；仅作结构参考。
+dependencies {
+}

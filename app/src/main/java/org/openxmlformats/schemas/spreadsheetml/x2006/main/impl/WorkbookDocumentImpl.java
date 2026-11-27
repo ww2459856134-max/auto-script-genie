@@ -1,0 +1,45 @@
+package org.openxmlformats.schemas.spreadsheetml.x2006.main.impl;
+
+import org.apache.poi.javax.xml.namespace.QName;
+import org.apache.xmlbeans.SchemaType;
+import org.apache.xmlbeans.impl.values.XmlComplexContentImpl;
+import org.openxmlformats.schemas.spreadsheetml.x2006.main.CTWorkbook;
+import org.openxmlformats.schemas.spreadsheetml.x2006.main.WorkbookDocument;
+
+/* loaded from: classes2.dex */
+public class WorkbookDocumentImpl extends XmlComplexContentImpl implements WorkbookDocument {
+    private static final QName[] PROPERTY_QNAME = {new QName("http://schemas.openxmlformats.org/spreadsheetml/2006/main", "workbook")};
+    private static final long serialVersionUID = 1;
+
+    public WorkbookDocumentImpl(SchemaType schemaType) {
+        super(schemaType);
+    }
+
+    @Override // org.openxmlformats.schemas.spreadsheetml.x2006.main.WorkbookDocument
+    public CTWorkbook addNewWorkbook() {
+        CTWorkbook cTWorkbook;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTWorkbook = (CTWorkbook) get_store().add_element_user(PROPERTY_QNAME[0]);
+        }
+        return cTWorkbook;
+    }
+
+    @Override // org.openxmlformats.schemas.spreadsheetml.x2006.main.WorkbookDocument
+    public CTWorkbook getWorkbook() {
+        CTWorkbook cTWorkbook;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTWorkbook = (CTWorkbook) get_store().find_element_user(PROPERTY_QNAME[0], 0);
+            if (cTWorkbook == null) {
+                cTWorkbook = null;
+            }
+        }
+        return cTWorkbook;
+    }
+
+    @Override // org.openxmlformats.schemas.spreadsheetml.x2006.main.WorkbookDocument
+    public void setWorkbook(CTWorkbook cTWorkbook) throws Throwable {
+        generatedSetterHelperImpl(cTWorkbook, PROPERTY_QNAME[0], 0, (short) 1);
+    }
+}

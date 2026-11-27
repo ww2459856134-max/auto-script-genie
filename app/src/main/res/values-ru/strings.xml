@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Перейти на главный экран</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Перейти вверх</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Ещё</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Готово</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Показать все</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Выберите приложение</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ВЫКЛ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ВКЛ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">Delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Ввод</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Fn +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">Пробел</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Меню +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Введите запрос</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Удалить запрос</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Поисковый запрос</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Поиск</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Отправить запрос</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Голосовой поиск</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Поделиться с помощью</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Поделиться с помощью %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Свернуть</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Дополнительно</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Поиск</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">>999</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ВЫКЛ.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ВКЛ.</string>
+</resources>

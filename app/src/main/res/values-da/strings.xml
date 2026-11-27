@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Find hjem</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Gå op</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Flere valgmuligheder</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Udfør</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Se alle</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Vælg en app</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">FRA</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">TIL</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">slet</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Fn+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">mellemrum</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Søg…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Ryd forespørgsel</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Søgeforespørgsel</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Søg</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Indsend forespørgsel</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Talesøgning</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Del med</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Del med %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Skjul</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Avanceret</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Søg</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">FRA</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">TIL</string>
+</resources>

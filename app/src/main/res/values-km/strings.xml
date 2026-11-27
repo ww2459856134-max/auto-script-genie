@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">​ទៅទំព័រដើម</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">រំកិលឡើងលើ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">ជម្រើសច្រើនទៀត</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">រួចរាល់</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">មើលទាំងអស់</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">ជ្រើសរើស​កម្មវិធី​​</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">បិទ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">បើក</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">លុប</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">ស្វែងរក…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">សម្អាត​សំណួរ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">ស្វែងរកសំណួរ​</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">ស្វែងរក</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">ដាក់បញ្ជូន​សំណួរ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">ស្វែងរក​តាម​សំឡេង</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">ចែករំលែក​ជា​មួយ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">ចែក​រំលែក​ជា​មួយ %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">បង្រួម</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">កម្រិតខ្ពស់</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">ស្វែងរក</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">បិទ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">បើក</string>
+</resources>

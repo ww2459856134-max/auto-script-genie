@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">गृह पृष्ठमा जानुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">माथि नेभिगेट गर्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">थप विकल्पहरू</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">सम्पन्न भयो</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">सबै हेर्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">एउटा एप छान्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">निष्क्रिय</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">सक्रिय</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">खोज्नुहोस्…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">क्वेरी खाली गर्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">खोज प्रश्न</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">खोज</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">क्वेरी पेस गर्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">आवाजमा आधारित खोजी</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">यसमार्फत सेयर गर्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s मार्फत सेयर गर्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">संक्षिप्त गर्नुहोस्</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">उन्नत</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">खोज</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">९९९+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">निष्क्रिय पार्नुहोस्‌</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">सक्रिय</string>
+</resources>

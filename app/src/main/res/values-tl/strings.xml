@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Mag-navigate sa home</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Mag-navigate pataas</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Higit pang opsyon</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Tapos na</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Tingnan lahat</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Pumili ng app</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">I-OFF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">I-ON</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Maghanap…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">I-clear ang query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Query sa paghahanap</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Maghanap</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Isumite ang query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Paghahanap gamit ang boses</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Ibahagi sa/kay</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Ibahagi gamit ang %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">I-collapse</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Advanced</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Maghanap</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">NAKA-OFF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">NAKA-ON</string>
+</resources>
