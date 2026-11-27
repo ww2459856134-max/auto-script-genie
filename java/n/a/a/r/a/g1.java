@@ -1,0 +1,32 @@
+package n.a.a.r.a;
+
+/* loaded from: classes.dex */
+public enum g1 {
+    NIL,
+    NONE,
+    SINGLE,
+    THICK,
+    DOUBLE,
+    DOTTED,
+    DASHED,
+    DOT_DASH,
+    DOT_DOT_DASH,
+    TRIPLE,
+    THIN_THICK_SMALL_GAP,
+    THICK_THIN_SMALL_GAP,
+    THIN_THICK_THIN_SMALL_GAP,
+    THIN_THICK_MEDIUM_GAP,
+    THICK_THIN_MEDIUM_GAP,
+    THIN_THICK_THIN_MEDIUM_GAP,
+    THIN_THICK_LARGE_GAP,
+    THICK_THIN_LARGE_GAP,
+    THIN_THICK_THIN_LARGE_GAP,
+    WAVE,
+    DOUBLE_WAVE,
+    DASH_SMALL_GAP,
+    DASH_DOT_STROKED,
+    THREE_D_EMBOSS,
+    THREE_D_ENGRAVE,
+    OUTSET,
+    INSET
+}

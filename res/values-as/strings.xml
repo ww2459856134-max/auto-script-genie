@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">গৃহ পৃষ্ঠালৈ যাওক</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">ওপৰলৈ যাওক</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">অধিক বিকল্প</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">সম্পন্ন হ’ল</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">সকলো চাওক</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">কোনো এপ্ বাছনি কৰক</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">অফ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">অন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">সন্ধান কৰক…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">সন্ধান কৰা প্ৰশ্ন মচক</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">সন্ধান কৰা প্ৰশ্ন</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">প্ৰশ্ন দাখিল কৰক</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">কণ্ঠধ্বনিৰ দ্বাৰা সন্ধান</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">ইয়াৰ জৰিয়তে শ্বেয়াৰ কৰক</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%sৰ জৰিয়তে শ্বেয়াৰ কৰক</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">সংকোচন কৰক</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">৯৯৯+</string>
+</resources>

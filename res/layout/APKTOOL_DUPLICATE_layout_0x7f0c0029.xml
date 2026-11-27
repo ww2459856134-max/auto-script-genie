@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.yl.widget.TitleBar android:id="@id/APKTOOL_DUPLICATE_id_0x7f09036c" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0902e2" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="85.0dip" />
+    <com.jsj.widget.QQKefuView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" app:APKTOOL_DUPLICATE_attr_0x7f04006c="有问题咨询客服" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09023f" android:background="#ccffffff" android:paddingBottom="20.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="85.0dip">
+        <com.airbnb.lottie.LottieAnimationView android:layout_width="150.0dip" android:layout_height="150.0dip" android:layout_centerHorizontal="true" app:APKTOOL_DUPLICATE_attr_0x7f0400e5="true" app:APKTOOL_DUPLICATE_attr_0x7f0400ea="log_file.json" app:APKTOOL_DUPLICATE_attr_0x7f0400ec="true" xmlns:app="http://schemas.android.com/apk/res-auto" />
+        <TextView android:textSize="17.0sp" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060024" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:text="脚本执行日志" />
+        <TextView android:textSize="12.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060048" android:layout_gravity="center" android:layout_width="260.0dip" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="20.0dip" android:text="开启日志记录后，您的脚本执行日志将被记录，方便排查脚本问题，如有报错等问题将报错日志截图发给技术小哥帮忙排查。" android:lineSpacingMultiplier="1.2" />
+        <TextView android:textSize="16.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06008a" android:gravity="center" android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0900bb" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080085" android:layout_width="200.0dip" android:layout_height="50.0dip" android:layout_marginTop="20.0dip" android:text="开启日志记录" />
+    </LinearLayout>
+</RelativeLayout>

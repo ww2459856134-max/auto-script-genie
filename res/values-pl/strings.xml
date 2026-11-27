@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Przejdź na stronę główną</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Przejdź wyżej</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Więcej opcji</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Gotowe</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Pokaż wszystko</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Wybierz aplikację</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">WYŁ.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">WŁ.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">Delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Funkcyjny+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">spacja</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Szukaj…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Wyczyść zapytanie</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Zapytanie</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Szukaj</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Wyślij zapytanie</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Wyszukiwanie głosowe</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Udostępnij przez:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Udostępnij przez: %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Zwiń</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Zaawansowane</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Szukaj</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">WYŁ.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">WŁ.</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Přejít na plochu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Přejít nahoru</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Další možnosti</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Hotovo</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Zobrazit vše</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Vybrat aplikaci</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">VYP</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ZAP</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Fn+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">mezerník</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Vyhledat…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Smazat dotaz</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Dotaz pro vyhledávání</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Hledat</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Odeslat dotaz</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Hlasové vyhledávání</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Sdílet s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Sdílet s aplikací %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Sbalit</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Rozšířená nastavení</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Hledat</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">VYP</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ZAP</string>
+</resources>

@@ -1,0 +1,166 @@
+package androidx.lifecycle;
+
+import android.app.Activity;
+import android.app.Application;
+import android.app.Fragment;
+import android.app.FragmentManager;
+import android.os.Build;
+import android.os.Bundle;
+import androidx.lifecycle.f;
+
+/* loaded from: classes.dex */
+public class r extends Fragment {
+    private q c;
+
+    static class a implements Application.ActivityLifecycleCallbacks {
+        a() {
+        }
+
+        static void registerIn(Activity activity) {
+            activity.registerActivityLifecycleCallbacks(new a());
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivityCreated(Activity activity, Bundle bundle) {
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivityDestroyed(Activity activity) {
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivityPaused(Activity activity) {
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivityPostCreated(Activity activity, Bundle bundle) {
+            r.a(activity, f.a.ON_CREATE);
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivityPostResumed(Activity activity) {
+            r.a(activity, f.a.ON_RESUME);
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivityPostStarted(Activity activity) {
+            r.a(activity, f.a.ON_START);
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivityPreDestroyed(Activity activity) {
+            r.a(activity, f.a.ON_DESTROY);
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivityPrePaused(Activity activity) {
+            r.a(activity, f.a.ON_PAUSE);
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivityPreStopped(Activity activity) {
+            r.a(activity, f.a.ON_STOP);
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivityResumed(Activity activity) {
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivitySaveInstanceState(Activity activity, Bundle bundle) {
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivityStarted(Activity activity) {
+        }
+
+        @Override // android.app.Application.ActivityLifecycleCallbacks
+        public void onActivityStopped(Activity activity) {
+        }
+    }
+
+    /* JADX WARN: Multi-variable type inference failed */
+    static void a(Activity activity, f.a aVar) {
+        if (activity instanceof i) {
+            f fVarO = ((i) activity).o();
+            if (fVarO instanceof k) {
+                ((k) fVarO).h(aVar);
+            }
+        }
+    }
+
+    private void b(f.a aVar) {
+        if (Build.VERSION.SDK_INT < 29) {
+            a(getActivity(), aVar);
+        }
+    }
+
+    private void c(q qVar) {
+        if (qVar != null) {
+            qVar.b();
+        }
+    }
+
+    private void d(q qVar) {
+        if (qVar != null) {
+            qVar.c();
+        }
+    }
+
+    private void e(q qVar) {
+        if (qVar != null) {
+            qVar.a();
+        }
+    }
+
+    public static void f(Activity activity) {
+        if (Build.VERSION.SDK_INT >= 29) {
+            a.registerIn(activity);
+        }
+        FragmentManager fragmentManager = activity.getFragmentManager();
+        if (fragmentManager.findFragmentByTag("androidx.lifecycle.LifecycleDispatcher.report_fragment_tag") == null) {
+            fragmentManager.beginTransaction().add(new r(), "androidx.lifecycle.LifecycleDispatcher.report_fragment_tag").commit();
+            fragmentManager.executePendingTransactions();
+        }
+    }
+
+    @Override // android.app.Fragment
+    public void onActivityCreated(Bundle bundle) {
+        super.onActivityCreated(bundle);
+        c(this.c);
+        b(f.a.ON_CREATE);
+    }
+
+    @Override // android.app.Fragment
+    public void onDestroy() {
+        super.onDestroy();
+        b(f.a.ON_DESTROY);
+        this.c = null;
+    }
+
+    @Override // android.app.Fragment
+    public void onPause() {
+        super.onPause();
+        b(f.a.ON_PAUSE);
+    }
+
+    @Override // android.app.Fragment
+    public void onResume() {
+        super.onResume();
+        d(this.c);
+        b(f.a.ON_RESUME);
+    }
+
+    @Override // android.app.Fragment
+    public void onStart() {
+        super.onStart();
+        e(this.c);
+        b(f.a.ON_START);
+    }
+
+    @Override // android.app.Fragment
+    public void onStop() {
+        super.onStop();
+        b(f.a.ON_STOP);
+    }
+}

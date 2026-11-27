@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">"Revenir à l'accueil"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Revenir en haut de la page</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Autres options</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">OK</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Tout afficher</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Sélectionner une application</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">NON</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">OUI</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">supprimer</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">entrée</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Fonction+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Méta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Maj+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">espace</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Rechercher…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Effacer la requête</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Requête de recherche</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Rechercher</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Envoyer la requête</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Recherche vocale</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Partager avec</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Partager avec %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Réduire</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Préférences avancées</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Rechercher</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">DÉSACTIVÉ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ACTIVÉ</string>
+</resources>

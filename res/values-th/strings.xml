@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">นำทางไปหน้าแรก</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">กลับ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">ตัวเลือกอื่น</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">เสร็จ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">ดูทั้งหมด</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">เลือกแอป</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ปิด</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">เปิด</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">ลบ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">Space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">เมนู+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">ค้นหา…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">ล้างคำค้นหา</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">คำค้นหา</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">ค้นหา</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">ส่งคำค้นหา</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">ค้นหาด้วยเสียง</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">แชร์กับ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">แชร์ทาง %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">ยุบ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">ขั้นสูง</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">ค้นหา</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ปิด</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">เปิด</string>
+</resources>

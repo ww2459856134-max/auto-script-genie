@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arg">
+        <item>x-www-form-urlencoded</item>
+        <item>form-data（json）</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030001">
+        <item>POST</item>
+        <item>GET</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030002">
+        <item>第一行</item>
+        <item>最后一行</item>
+        <item>每次递进</item>
+        <item>第n行</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030003">
+        <item>第一行</item>
+        <item>最后一行</item>
+        <item>第n行</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030004">
+        <item>覆盖输入</item>
+        <item>叠加输入</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030005">
+        <item>默认方式定位</item>
+        <item>用控件ID定位</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030006">
+        <item>覆盖文本</item>
+        <item>叠加文本</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030007">
+        <item>随机输入</item>
+        <item>顺序输入</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030008">
+        <item>输入文字</item>
+        <item>从变量取值输入</item>
+        <item>从剪切板粘贴</item>
+        <item>随机选择以下文本输入</item>
+        <item>按顺序输入以下文本</item>
+        <item>从文件中获取文字输入</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030009">
+        <item>默认OCR（内置）</item>
+        <item>Paddle OCR（插件内测）</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03000a">
+        <item>识别中文</item>
+        <item>识别英文</item>
+        <item>识别数字</item>
+        <item>自定义模型</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03000b">
+        <item>识别中文</item>
+        <item>识别英文</item>
+        <item>识别数字</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03000c">
+        <item>${minute}</item>
+        <item>${date}</item>
+        <item>${now}</item>
+        <item>${hour}</item>
+        <item>${year}</item>
+        <item>${second}</item>
+        <item>${month}</item>
+        <item>${day}</item>
+        <item>${time}</item>
+        <item>${utc}</item>
+        <item>${screenWidth}</item>
+        <item>${screenHeight}</item>
+        <item>${battery}</item>
+        <item>${week}</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03000d">
+        <item>第一个</item>
+        <item>最后一个</item>
+        <item>每次递进</item>
+        <item>第n个</item>
+        <item>同时操作全部</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03000e">
+        <item>输入变量值</item>
+        <item>从剪切板获取值</item>
+        <item>从文件中获取值</item>
+        <item>从变量取值</item>
+        <item>将图片文件转成base64</item>
+        <item>截图转成base64</item>
+        <item>预设变量</item>
+        <item>文件路径</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f03000f">
+        <item>新建变量</item>
+        <item>变量赋值到剪切板</item>
+        <item>将变量写入文件</item>
+        <item>变量文字分割</item>
+        <item>变量逻辑运算</item>
+        <item>变量逻辑判断</item>
+        <item>变量公式计算器</item>
+        <item>清空所有变量值</item>
+        <item>重置某个变量</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030010">
+        <item>文字</item>
+        <item>数字</item>
+        <item>文件</item>
+        <item>坐标</item>
+        <item>图片</item>
+        <item>选项</item>
+        <item>进度条</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030011">
+        <item>随机读取</item>
+        <item>顺序读取</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030012">
+        <item>向下翻页</item>
+        <item>向上翻页</item>
+        <item>向左翻页</item>
+        <item>向右翻页</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030013">
+        <item>滚动到第n条</item>
+        <item>每次递进一条</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030014">
+        <item>滚动一页</item>
+        <item>滚动一条</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030015">
+        <item>无声音</item>
+        <item>默认声音</item>
+        <item>选择声音文件</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030016">
+        <item>提取区域内文字</item>
+        <item>提取控件内文字</item>
+        <item>提取相匹配的文字</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030017">
+        <item>顶部</item>
+        <item>中间</item>
+        <item>底部</item>
+    </string-array>
+    <string-array name="APKTOOL_DUPLICATE_array_0x7f030018">
+        <item>显示水印</item>
+        <item>关闭水印</item>
+    </string-array>
+</resources>

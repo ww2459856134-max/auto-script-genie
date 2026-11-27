@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" android:installLocation="internalOnly" package="com.jsj.autojs" platformBuildVersionCode="33" platformBuildVersionName="13">
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="com.jsj.autojs.paddleocr.permission.BIND_OCR"/>
+    <uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.WRITE_CALENDAR"/>
+    <uses-feature android:name="android.hardware.camera" android:required="false"/>
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM"/>
+    <uses-permission android:name="android.permission.FLASHLIGHT"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM"/>
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+    <queries>
+        <package android:name="com.jsj.autojs.paddleocr"/>
+    </queries>
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+    <application android:allowBackup="false" android:appComponentFactory="com.jsjs.AsFac" android:dataExtractionRules="@xml/APKTOOL_DUPLICATE_xml_0x7f100002" android:debuggable="false" android:extractNativeLibs="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:largeHeap="true" android:name="com.jsjs.JsA" android:supportsRtl="true" android:taskAffinity="" android:testOnly="false" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e0005" android:usesCleartextTraffic="false">
+        <activity android:exported="false" android:name="com.jsj.autojs.basicmode.A0f239a4ac2" android:process=":jgu" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e00ec"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.Aec5865a7cc"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.InputInviteAct934934"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.A4e5efa332d"/>
+        <activity android:exported="false" android:name="com.yl.ui.CropActivity"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.Ad1caecde37"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.A6163c89234"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:exported="false" android:largeHeap="true" android:name="com.jsj.autojs.activity.A1393b5d52c" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e00ec"/>
+        <service android:enabled="true" android:foregroundServiceType="mediaProjection" android:name="com.s.ScreenshotService"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.A279c88ed4f"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.Aa60c95fc3c"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.Ad513564891"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.A03b698f07b"/>
+        <activity android:exported="false" android:name="com.a.ExportAct"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.A592aa6ab95"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.Af90244836e"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.Ae029968deb" android:screenOrientation="portrait"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.Ad1cbbb5a22"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.Ab27c48088c"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.A147a4ab161"/>
+        <activity android:exported="true" android:name="com.jsj.autojs.activity.Abd192a7cca" android:permission="com.jsj.autojs.permission">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="www.skyingidea.com" android:path="/pay" android:scheme="chenai"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.act.QQEntryActivity" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e0145"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.A0993a699e5"/>
+        <activity android:excludeFromRecents="true" android:exported="true" android:name="com.jsj.autojs.activity.A047634d3a4" android:permission="com.jsj.autojs.permission">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="www.auto" android:path="/login" android:scheme="chenai"/>
+            </intent-filter>
+        </activity>
+        <receiver android:exported="true" android:name="com.jsj.autojs.receiver.ZiqidongReceiver234234423243" android:permission="com.jsj.autojs.permission">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <category android:name="android.intent.category.HOME"/>
+            </intent-filter>
+        </receiver>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.A73ee1fe7ab" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e00ab"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.jsj.autojs.activity.A891aae5203"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.a.WallpaperSelectAct" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e013a"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.act.WebAct" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e013a"/>
+        <service android:enabled="true" android:exported="true" android:label="@string/app_name" android:name="com.s.NotifyService" android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.s.TaskService"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.Aedaedea51a" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e00ab"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.Abc651937bc" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e00ab"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.Aa6cb29bc07" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e00ab"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.A7e785dd303" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e00ab"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.A68c0a83b53" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e00ab"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.jsj.autojs.activity.A99df5502f5"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.A91391ecb39"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.Ac4236f60f4"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.activity.A63ddcc819d"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.a.ScreenshotAct" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e0145"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.a.FileChooseStoragePermissionAct" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e0145"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.a.FileChooseSafAct" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e0145"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.a.FileSaveSafAct" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e0145"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.permission.ToastAct" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e0145"/>
+        <meta-data android:name="android.max_aspect" android:value="2.1"/>
+        <service android:exported="true" android:label="@string/APKTOOL_DUPLICATE_string_0x7f0d0085" android:name="com.s.BoxService" android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService"/>
+            </intent-filter>
+            <meta-data android:name="android.accessibilityservice" android:resource="@xml/arg"/>
+        </service>
+        <service android:excludeFromRecents="true" android:exported="true" android:label="@string/app_name" android:name="wallpaper.WallpaperSetting" android:permission="android.permission.BIND_WALLPAPER">
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+            </intent-filter>
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/APKTOOL_DUPLICATE_xml_0x7f100004"/>
+        </service>
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <provider android:authorities="com.jsj.autojs.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="com.jsjs.ProxyContentProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/APKTOOL_DUPLICATE_xml_0x7f100003"/>
+            <meta-data android:name="jiagu_original_provider" android:value="androidx.core.content.FileProvider"/>
+        </provider>
+        <activity android:excludeFromRecents="true" android:exported="true" android:label="导入脚本" android:name="com.jsj.autojs.activity.A960be28d46">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:host="*" android:mimeType="*/*" android:scheme="file"/>
+                <data android:host="*" android:mimeType="*/*" android:scheme="content"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="*/*"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="*/*"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="text/plain"/>
+                <data android:mimeType="application/zip"/>
+                <data android:scheme="file"/>
+                <data android:scheme="content"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="application/zip"/>
+                <data android:mimeType="text/plain"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="application/zip"/>
+                <data android:mimeType="text/plain"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="text/plain"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="application/zip"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:launchMode="singleTask" android:name="com.tencent.tauth.AuthActivity" android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="tencent102042600"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.tencent.connect.common.AssistActivity" android:screenOrientation="behind" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e0145"/>
+        <activity android:exported="true" android:label="@string/app_name" android:name="com.jsj.autojs.wxapi.WXEntryActivity" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e0145"/>
+        <activity android:exported="true" android:label="@string/app_name" android:name="com.jsj.autojs.wxapi.WXPayEntryActivity" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e0145"/>
+        <activity android:exported="false" android:name="com.jsj.autojs.privacy.Ac14cd2721f"/>
+        <activity android:name="com.bluetooth.cursor.viewclass.SettingsActivity"/>
+        <activity android:exported="false" android:name="com.bluetooth.cursor.BluetoothHidClientAct"/>
+        <provider android:authorities="com.jsj.autojs.share_file_provider" android:exported="false" android:grantUriPermissions="true" android:name="com.jsjs.ProxyContentProvider$P1">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/APKTOOL_DUPLICATE_xml_0x7f100006"/>
+            <meta-data android:name="jiagu_original_provider" android:value="com.yl.ui.ShareFileProvider"/>
+        </provider>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.jsjs.JSOAct" android:process=":jgu" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e00ec"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.jsjs.BBoAct" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f0e00ec"/>
+        <activity-alias android:exported="true" android:name="com.jsjs.JSOAct_Entry0" android:targetActivity="com.jsjs.BBoAct">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="64b130d1a1a164591b4c82c8"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:exported="false" android:name="com.jsjs.OWNG_Pri0" android:targetActivity="com.jsjs.JSOAct"/>
+    </application>
+</manifest>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Əsas səhifəyə keçin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Yuxarı keçin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Digər seçimlər</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Hazırdır</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Hamısına baxın</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Tətbiq seçin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">DEAKTİV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">AKTİV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">silin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">daxil olun</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Funksiya+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menyu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Axtarış...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Sorğunu silin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Axtarış sorğusu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Axtarın</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Sorğunu göndərin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Səsli axtarış</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Paylaşın</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s ilə paylaşın</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Yığcamlaşdırın</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Qabaqcıl</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Axtarın</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">DEAKTİV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">AKTİV</string>
+</resources>

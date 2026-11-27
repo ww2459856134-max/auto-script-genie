@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Ugrás a főoldalra</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Fel</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">További lehetőségek</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Kész</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Az összes megtekintése</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Válasszon alkalmazást</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">KI</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">BE</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">Delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">Szóköz</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Keresés…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Lekérdezés törlése</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Keresési lekérdezés</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Keresés</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Lekérdezés küldése</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Hangalapú keresés</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Megosztás a következővel:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Megosztás a következő alkalmazással: %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Összecsukás</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Speciális</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Keresés</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">KI</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">BE</string>
+</resources>

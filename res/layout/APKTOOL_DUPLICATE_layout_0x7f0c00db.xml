@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:paddingBottom="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:paddingHorizontal="20.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="25.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="权限加固" />
+    <TextView android:textSize="13.0sp" android:textColor="#55ffffff" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0903e6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="50.0dip" android:text="适用机型" />
+    <TextView android:textSize="13.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0903ed" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="60.0dip" android:layout_marginTop="50.0dip" android:text="vivo" />
+    <TextView android:textSize="12.5sp" android:textColor="#55ffffff" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0903b7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="85.0dip" android:text="为保证自动点击宝正常运行，有效避免自动点击宝被系统“误杀”、后台任务失效、定时任务失效、图片/颜色识别失效，任务执行中断等意外情况，请按以下几步简单设置。" android:lineSpacingExtra="5.0dip" />
+    <ImageView android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080192" android:layout_alignParentRight="true" />
+</RelativeLayout>

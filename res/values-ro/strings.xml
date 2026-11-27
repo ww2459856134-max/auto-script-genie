@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Navigați la ecranul de pornire</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Navigați în sus</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Mai multe opțiuni</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Gata</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Afișați tot</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Alegeți o aplicație</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">DEZACTIVAT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ACTIVAT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Meniu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Căutați…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Ștergeți interogarea</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Termen de căutare</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Căutați</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Trimiteți interogarea</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Căutare vocală</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Trimiteți la</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Trimiteți folosind %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Restrângeți</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Avansat</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Căutați</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">DEZACTIVAT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ACTIVAT</string>
+</resources>

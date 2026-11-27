@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">ホームに戻る</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">前に戻る</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">その他のオプション</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">完了</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">すべて表示</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">アプリの選択</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">OFF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ON</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">Delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">Space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">検索…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">検索キーワードを削除</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">検索キーワード</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">検索</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">検索キーワードを送信</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">音声検索</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">共有</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%sと共有</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">折りたたむ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">詳細設定</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">検索</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s、%2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">OFF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ON</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f0e003f" parent="@style/APKTOOL_DUPLICATE_style_0x7f0e0060" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f0e0046" parent="@style/APKTOOL_DUPLICATE_style_0x7f0e0061" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f0e0060" parent="@style/APKTOOL_DUPLICATE_style_0x7f0e005d">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f040080">?android:dialogCornerRadius</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f0e0061" parent="@style/APKTOOL_DUPLICATE_style_0x7f0e005e">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f040080">?android:dialogCornerRadius</item>
+    </style>
+</resources>

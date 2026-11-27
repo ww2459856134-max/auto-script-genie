@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">瀏覽首頁</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">向上瀏覽</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">更多選項</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">完成</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">查看全部</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">選擇應用程式</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">關閉</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">開啟</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">Delete 鍵</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Enter 鍵</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Fn +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">空格鍵</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">搜尋…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">清除查詢</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">搜尋查詢</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">搜尋</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">提交查詢</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">語音搜尋</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">分享對象</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">與「%s」分享</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">收合</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">進階</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">搜尋</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s，%2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">關閉</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">開啟</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">ניווט לדף הבית</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">ניווט למעלה</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">עוד אפשרויות</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">סיום</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">הצגת הכול</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">בחירת אפליקציה</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">כבוי</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">מופעל</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+‎</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">מחיקה</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">רווח</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">תפריט+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">חיפוש…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">מחיקת השאילתה</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">שאילתת חיפוש</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">חיפוש</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">שליחת שאילתה</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">חיפוש קולי</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">שיתוף עם</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">שיתוף עם %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">כיווץ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">מתקדם</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">חיפוש</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">כבוי</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">מופעל</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.jsj.widget.BottomView android:id="@id/APKTOOL_DUPLICATE_id_0x7f090052" android:background="@color/APKTOOL_DUPLICATE_color_0x7f06008a" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_alignParentBottom="true" />
+    <FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f090136" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/APKTOOL_DUPLICATE_id_0x7f090052" />
+    <com.yl.widget.PageAlertView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0902cd" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:id="@id/APKTOOL_DUPLICATE_id_0x7f0902b2" layout="@layout/APKTOOL_DUPLICATE_layout_0x7f0c003f" />
+</RelativeLayout>

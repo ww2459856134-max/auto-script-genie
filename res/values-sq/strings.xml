@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Orientohu për në shtëpi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Ngjitu lart</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Opsione të tjera</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">U krye</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Shfaq çdo gjë</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Zgjidh një aplikacion</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">JOAKTIV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">AKTIV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Funksioni+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">hapësirë</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menyja+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Kërko…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Pastro pyetjen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Kërko pyetjen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Kërko</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Dërgo pyetjen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Kërkim me zë</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Ndaje me</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Ndaje me %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Palos</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Të përparuara</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Kërko</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">JOAKTIV</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">AKTIV</string>
+</resources>

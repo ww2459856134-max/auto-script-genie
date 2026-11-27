@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">"Navega fins a la pàgina d'inici"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Navega cap amunt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Més opcions</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Fet</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Mostra-ho tot</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Selecciona una aplicació</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">DESACTIVA</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ACTIVA</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">Supr</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Retorn</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Funció+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Maj+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">Espai</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menú+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Cerca…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Esborra la consulta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Consulta de cerca</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Cerca</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Envia la consulta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Cerca per veu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Comparteix amb</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Comparteix amb %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Replega</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Opcions avançades</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Cerca</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">DESACTIVAT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ACTIVAT</string>
+</resources>

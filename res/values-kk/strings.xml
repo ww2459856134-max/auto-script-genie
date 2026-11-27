@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Негізгі бетке өту</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Жоғары қарай өту</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Басқа опциялар</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Дайын</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Барлығын көру</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Қолданбаны таңдау</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ӨШІРУ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ҚОСУ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">бос орын</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Іздеу…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Сұрауды өшіру</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Іздеу сұрауы</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Іздеу</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Сұрауды жіберу</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Дауыспен іздеу</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Бөлісу</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s қолданбасымен бөлісу</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Жию</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Қосымша</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Іздеу</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ӨШІРУЛІ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ҚОСУЛЫ</string>
+</resources>

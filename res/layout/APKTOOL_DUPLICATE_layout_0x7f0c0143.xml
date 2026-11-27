@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f090255" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f08005b" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.jsj.widget.SuccessAnimView android:id="@id/APKTOOL_DUPLICATE_id_0x7f090337" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</FrameLayout>

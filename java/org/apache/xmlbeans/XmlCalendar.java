@@ -1,0 +1,125 @@
+package org.apache.xmlbeans;
+
+import java.math.BigDecimal;
+import java.util.Date;
+import java.util.GregorianCalendar;
+import java.util.TimeZone;
+import org.apache.xmlbeans.impl.util.ExceptionUtil;
+import org.apache.xmlbeans.impl.util.SuppressForbidden;
+
+/* loaded from: classes.dex */
+public class XmlCalendar extends GregorianCalendar {
+    private static final int DEFAULT_DEFAULT_YEAR = 0;
+    private static final Date _beginningOfTime = new Date(Long.MIN_VALUE);
+    private static int defaultYear = Integer.MIN_VALUE;
+
+    public XmlCalendar(String str) {
+        this(new GDate(str));
+    }
+
+    public static int getDefaultYear() {
+        if (defaultYear == Integer.MIN_VALUE) {
+            try {
+                String property = SystemProperties.getProperty("user.defaultyear");
+                if (property != null) {
+                    defaultYear = Integer.parseInt(property);
+                } else {
+                    defaultYear = 0;
+                }
+            } catch (Throwable th) {
+                if (ExceptionUtil.isFatal(th)) {
+                    ExceptionUtil.rethrow(th);
+                }
+                defaultYear = 0;
+            }
+        }
+        return defaultYear;
+    }
+
+    public static void setDefaultYear(int i2) {
+        defaultYear = i2;
+    }
+
+    @Override // java.util.GregorianCalendar, java.util.Calendar
+    protected void computeTime() {
+        boolean z = !isSet(1);
+        if (z) {
+            set(1, getDefaultYear());
+        }
+        try {
+            super.computeTime();
+        } finally {
+            if (z) {
+                clear(1);
+            }
+        }
+    }
+
+    @Override // java.util.Calendar
+    public int get(int i2) {
+        return (!isSet(i2) || ((GregorianCalendar) this).isTimeSet) ? super.get(i2) : internalGet(i2);
+    }
+
+    @Override // java.util.Calendar
+    public String toString() {
+        return new GDate(this).toString();
+    }
+
+    public XmlCalendar(GDateSpecification gDateSpecification) {
+        this(GDate.timeZoneForGDate(gDateSpecification), gDateSpecification);
+    }
+
+    @SuppressForbidden("Locale is not known and we don't have a general class to set the default locale")
+    private XmlCalendar(TimeZone timeZone, GDateSpecification gDateSpecification) {
+        super(timeZone);
+        setGregorianChange(_beginningOfTime);
+        clear();
+        if (gDateSpecification.hasYear()) {
+            int year = gDateSpecification.getYear();
+            if (year > 0) {
+                set(0, 1);
+            } else {
+                set(0, 0);
+                year = -year;
+            }
+            set(1, year);
+        }
+        if (gDateSpecification.hasMonth()) {
+            set(2, gDateSpecification.getMonth() - 1);
+        }
+        if (gDateSpecification.hasDay()) {
+            set(5, gDateSpecification.getDay());
+        }
+        if (gDateSpecification.hasTime()) {
+            set(11, gDateSpecification.getHour());
+            set(12, gDateSpecification.getMinute());
+            set(13, gDateSpecification.getSecond());
+            if (gDateSpecification.getFraction().scale() > 0) {
+                set(14, gDateSpecification.getMillisecond());
+            }
+        }
+        if (gDateSpecification.hasTimeZone()) {
+            set(15, gDateSpecification.getTimeZoneSign() * XmlValidationError.INCORRECT_ATTRIBUTE * 60 * ((gDateSpecification.getTimeZoneHour() * 60) + gDateSpecification.getTimeZoneMinute()));
+            set(16, 0);
+        }
+    }
+
+    public XmlCalendar(Date date) {
+        this(TimeZone.getDefault(), new GDate(date));
+        complete();
+    }
+
+    public XmlCalendar(int i2, int i3, int i4, int i5, int i6, int i7, BigDecimal bigDecimal) {
+        this(TimeZone.getDefault(), new GDate(i2, i3, i4, i5, i6, i7, bigDecimal));
+    }
+
+    public XmlCalendar(int i2, int i3, int i4, int i5, int i6, int i7, BigDecimal bigDecimal, int i8, int i9, int i10) {
+        this(new GDate(i2, i3, i4, i5, i6, i7, bigDecimal, i8, i9, i10));
+    }
+
+    @SuppressForbidden("Locale is not known and we don't have a general class to set the default locale")
+    public XmlCalendar() {
+        setGregorianChange(_beginningOfTime);
+        clear();
+    }
+}

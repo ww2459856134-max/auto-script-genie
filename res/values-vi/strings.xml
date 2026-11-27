@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Chỉ đường về nhà</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Di chuyển lên</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Tùy chọn khác</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Xong</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Xem tất cả</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Chọn một ứng dụng</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">TẮT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">BẬT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Tìm kiếm…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Xóa truy vấn</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Truy vấn tìm kiếm</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Tìm kiếm</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Gửi truy vấn</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Tìm kiếm bằng giọng nói</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Chia sẻ với</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Chia sẻ với %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Thu gọn</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Nâng cao</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Tìm kiếm</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">TẮT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">BẬT</string>
+</resources>

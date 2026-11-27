@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Eve gidiş yolunu göster</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Yukarı git</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Diğer seçenekler</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Bitti</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Tümünü göster</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Bir uygulama seçin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">KAPAT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">AÇ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">sil</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Üst Karakter+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">boşluk</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menü+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Ara…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Sorguyu temizle</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Arama sorgusu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Ara</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Sorguyu gönder</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Sesli arama</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Şununla paylaş:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s ile paylaş</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Daralt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Gelişmiş</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Ara</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">KAPALI</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">AÇIK</string>
+</resources>

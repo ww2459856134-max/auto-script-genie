@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Перейти на головну</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Перейти вгору</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Більше опцій</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Готово</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Показати всі</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Вибрати програму</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ЗНИЖКА</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">УВІМК.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">пробіл</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Введіть пошуковий запит…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Очистити запит</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Пошуковий запит</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Пошук</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Наіслати запит</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Голосовий пошук</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Поділитися:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Поділитися через додаток %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Згорнути</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Додатково</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Пошук</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ВИМКНЕНО</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">УВІМКНЕНО</string>
+</resources>

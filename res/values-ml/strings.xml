@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">ഹോമിലേക്ക് പോവുക</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">മുകളിലേക്ക് പോവുക</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">കൂടുതൽ ഓപ്ഷനുകൾ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">പൂർത്തിയായി</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">എല്ലാം കാണുക</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">ആപ്പ് തിരഞ്ഞെടുക്കുക</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ഓഫ്</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ഓൺ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">ഇല്ലാതാക്കുക</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">ഫംഗ്ഷന്‍+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">മെറ്റ+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">സ്‌പെയ്‌സ്</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">മെനു+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">തിരയുക…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">ചോദ്യം മായ്‌ക്കുക</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">ചോദ്യം തിരയുക</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">ചോദ്യം സമർപ്പിക്കുക</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">സംസാരത്തിലൂടെ തിരയുക</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">ഇനിപ്പറയുന്നതുമായി പങ്കിടുക</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s എന്നതുമായി പങ്കിടുക</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">ചുരുക്കുക</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">വിപുലമായത്</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ഓഫ്</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ഓൺ</string>
+</resources>

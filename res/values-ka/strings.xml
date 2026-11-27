@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">მთავარზე გადასვლა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">ზემოთ გადასვლა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">სხვა ვარიანტები</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">მზადაა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">ყველას ნახვა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">აირჩიეთ აპი</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">გამორთვა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ჩართვა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">შორისი</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">ძიება…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">მოთხოვნის გასუფთავება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">მოთხოვნის ძიება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">ძიება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">მოთხოვნის გადაგზავნა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">ხმოვანი ძიება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">გაზიარება:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s-ით გაზიარება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">ჩაკეცვა</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">დამატებით</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">ძიება</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">გამორთული</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ჩართული</string>
+</resources>

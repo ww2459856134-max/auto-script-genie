@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">घराकडे नेव्हिगेट करा</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">वर नेव्‍हिगेट करा</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">आणखी पर्याय</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">पूर्ण झाले</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">सर्व पाहा</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">अ‍ॅप निवडा</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">बंद</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">सुरू</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">हटवा</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">एंटर करा</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">मेनू+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">शोधा…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">क्‍वेरी साफ करा</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">शोध क्वेरी</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">क्वेरी सबमिट करा</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">व्हॉइस शोध</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">यांच्यासोबत शेअर करा</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s सह शेअर करा</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">कोलॅप्स करा</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">प्रगत</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">९९९+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">बंद</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">चालू</string>
+</resources>

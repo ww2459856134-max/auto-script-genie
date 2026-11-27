@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Нүүр хуудас уруу шилжих</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Дээш шилжих</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Бусад сонголт</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Болсон</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Бүгдийг харах</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Аппыг сонгох</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ИДЭВХГҮЙ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ИДЭВХТЭЙ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">устгах</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">оруулах</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Функц+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Мета+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Шифт+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">зай</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Цэс+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Хайх…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Асуулга арилгах</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Хайх асуулга</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Хайх</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Асуулга илгээх</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Дуут хайлт</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Дараахтай хуваалцах</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s-тай хуваалцах</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Буулгах</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Дэлгэрэнгүй</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Хайх</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ИДЭВХГҮЙ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ИДЭВХТЭЙ</string>
+</resources>

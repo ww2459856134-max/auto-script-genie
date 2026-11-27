@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Навигиране към началния екран</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Навигиране нагоре</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Още опции</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Готово</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Преглед на всички</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Изберете приложение</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ИЗКЛ.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ВКЛ.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">клавиша за интервал</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Търсете…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Изчистване на заявката</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Заявка за търсене</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Търсене</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Изпращане на заявката</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Гласово търсене</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Споделяне със:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Споделяне със: %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Свиване</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Разширени</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Търсене</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ИЗКЛ.</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ВКЛ.</string>
+</resources>

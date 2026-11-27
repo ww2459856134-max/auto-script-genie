@@ -1,0 +1,15 @@
+package n.a.a.n.d;
+
+/* loaded from: classes.dex */
+public enum j {
+    _NONE(-1),
+    NUMERIC(0),
+    STRING(1),
+    FORMULA(2),
+    BLANK(3),
+    BOOLEAN(4),
+    ERROR(5);
+
+    j(int i2) {
+    }
+}

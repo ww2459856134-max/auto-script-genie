@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Fara heim</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Fara upp</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Fleiri valkostir</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Lokið</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Sjá allt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Veldu forrit</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">SLÖKKT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">KVEIKT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">eyða</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Aðgerðarlykill+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">bilslá</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Valmynd+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Leita…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Hreinsa fyrirspurn</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Leitarfyrirspurn</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Leit</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Senda fyrirspurn</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Raddleit</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Deila með</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Deila með %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Minnka</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Ítarlegt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Leit</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">SLÖKKT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">KVEIKT</string>
+</resources>

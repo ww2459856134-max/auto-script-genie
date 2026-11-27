@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">ಹೋಮ್‌ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">ಮೇಲಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">ಮುಗಿದಿದೆ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">ಎಲ್ಲವನ್ನೂ ನೋಡಿ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">ಆ್ಯಪ್‌ವೊಂದನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ಆಫ್</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ಆನ್</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">ಹುಡುಕಿ…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">ಪ್ರಶ್ನೆಯನ್ನು ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">ಪ್ರಶ್ನೆಯನ್ನು ಹುಡುಕಿ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">ಪ್ರಶ್ನೆಯನ್ನು ಸಲ್ಲಿಸಿ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">ಧ್ವನಿ ಹುಡುಕಾಟ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">ಇವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s ನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">ಕುಗ್ಗಿಸಿ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">ಸುಧಾರಿತ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ಆಫ್</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ಆನ್</string>
+</resources>
