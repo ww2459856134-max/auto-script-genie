@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f08006e" android:paddingLeft="15.0dip" android:paddingTop="20.0dip" android:paddingRight="15.0dip" android:paddingBottom="22.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:layout_marginHorizontal="15.0dip" android:paddingHorizontal="15.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0900d2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <com.jsj.autojs.widget.AssetImageView android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0801c4" android:padding="5.0dip" android:layout_width="60.0dip" android:layout_height="60.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040031="selector_index_night.png" />
+        <TextView android:textSize="13.0sp" android:textColor="@drawable/APKTOOL_DUPLICATE_drawable_0x7f08009d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="夜间" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0900d0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <com.jsj.autojs.widget.AssetImageView android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0801c4" android:padding="5.0dip" android:layout_width="60.0dip" android:layout_height="60.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040031="selector_index_book.png" />
+        <TextView android:textSize="13.0sp" android:textColor="@drawable/APKTOOL_DUPLICATE_drawable_0x7f08009d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="阅读" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0900d1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <com.jsj.autojs.widget.AssetImageView android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0801c4" android:padding="5.0dip" android:layout_width="60.0dip" android:layout_height="60.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040031="selector_index_game.png" />
+        <TextView android:textSize="13.0sp" android:textColor="@drawable/APKTOOL_DUPLICATE_drawable_0x7f08009d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="游戏" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0900d3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <com.jsj.autojs.widget.AssetImageView android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0801c4" android:padding="5.0dip" android:layout_width="60.0dip" android:layout_height="60.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040031="selector_index_sleep.png" />
+        <TextView android:textSize="13.0sp" android:textColor="@drawable/APKTOOL_DUPLICATE_drawable_0x7f08009d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="助眠" />
+    </LinearLayout>
+</LinearLayout>

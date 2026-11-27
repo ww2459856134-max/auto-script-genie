@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Navigeren naar startpositie</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Omhoog navigeren</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Meer opties</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Klaar</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Alles weergeven</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Een app selecteren</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">UIT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">AAN</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">Delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Functie +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">spatie</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Zoeken…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Zoekopdracht wissen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Zoekopdracht</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Zoeken</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Zoekopdracht verzenden</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Gesproken zoekopdracht</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Delen met</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Delen met %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Samenvouwen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Geavanceerd</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Zoeken</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">UIT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">AAN</string>
+</resources>

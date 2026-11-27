@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f090234" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="5.0dip" android:adjustViewBounds="true" />
+    <com.airbnb.lottie.LottieAnimationView android:id="@id/APKTOOL_DUPLICATE_id_0x7f090042" android:background="@color/APKTOOL_DUPLICATE_color_0x7f06004e" android:padding="3.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="25.0dip" android:layout_marginRight="25.0dip" android:adjustViewBounds="true" android:layout_marginHorizontal="25.0dip" app:APKTOOL_DUPLICATE_attr_0x7f0400e5="true" app:APKTOOL_DUPLICATE_attr_0x7f0400ea="accessibility.json" app:APKTOOL_DUPLICATE_attr_0x7f0400ec="true" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:paddingBottom="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090245" android:layout_width="16.0dip" android:layout_height="16.0dip" android:src="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0800b8" android:scaleType="centerInside" />
+        <TextView android:textSize="13.0sp" android:textColor="#ff9495a3" android:layout_gravity="center_vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0903e9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="点击这里可以关闭语言指导" />
+    </LinearLayout>
+</LinearLayout>

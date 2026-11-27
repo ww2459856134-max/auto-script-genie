@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#fff0f0f0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.yl.widget.TitleBar android:id="@id/APKTOOL_DUPLICATE_id_0x7f09036c" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:padding="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09027b" android:background="#ffffffff" android:padding="14.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="17.0sp" android:textStyle="bold" android:textColor="#ff000000" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="ESP32 HID模式（代替无障碍）" android:layout_weight="1.0" />
+                    <Switch android:id="@id/APKTOOL_DUPLICATE_id_0x7f090339" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </LinearLayout>
+                <TextView android:textSize="14.0sp" android:textColor="#ff333333" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09038f" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="执行模式：未开启" />
+                <TextView android:textSize="14.0sp" android:textColor="#ff333333" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090381" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="网络连接配置：未配置" />
+                <TextView android:textSize="13.0sp" android:textColor="#ff777777" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090380" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:text="IP：未配置  端口：未配置" />
+                <TextView android:textSize="14.0sp" android:textColor="#ff333333" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09037f" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="ESP32蓝牙连接状态：未配置" />
+                <TextView android:textSize="13.0sp" android:textColor="#ff777777" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09037e" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:text="通过局域网查询ESP32蓝牙HID连接状态" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+                    <Button android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090063" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="绑定ESP32" android:layout_weight="1.0" android:backgroundTint="#ffffffff" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip">
+                    <Button android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090069" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="自动发现/刷新" android:layout_weight="1.0" android:layout_marginEnd="5.0dip" android:backgroundTint="#ffffffff" />
+                    <Button android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0902ca" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="打开蓝牙" android:layout_weight="1.0" android:layout_marginStart="5.0dip" android:backgroundTint="#ffffffff" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090285" android:background="#ffffffff" android:padding="14.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip">
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="17.0sp" android:textStyle="bold" android:textColor="#ff000000" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="模拟外设" android:layout_weight="1.0" />
+                    <Switch android:id="@id/APKTOOL_DUPLICATE_id_0x7f09033a" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </LinearLayout>
+                <TextView android:textSize="14.0sp" android:textColor="#ff333333" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09039a" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="模拟外设蓝牙：未创建" />
+                <TextView android:textSize="16.0sp" android:textStyle="bold" android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090143" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="蓝牙名称：AutoJS HID-0000" />
+                <TextView android:textSize="14.0sp" android:textColor="#ff333333" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09039c" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="网络服务：未启动" />
+                <TextView android:textSize="13.0sp" android:textColor="#ff777777" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09039b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:text="IP：未获取  端口：21115" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+                    <Button android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09006f" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="创建外设" android:layout_weight="1.0" android:layout_marginEnd="5.0dip" android:backgroundTint="#ffffffff" />
+                    <Button android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090135" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="重新链接" android:layout_weight="1.0" android:layout_marginStart="5.0dip" android:backgroundTint="#ffffffff" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip">
+                    <Button android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09013a" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="复制名称" android:layout_weight="1.0" android:layout_marginEnd="5.0dip" android:backgroundTint="#ffffffff" />
+                    <Button android:textColor="#ff000000" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090148" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="关闭网络服务" android:layout_weight="1.0" android:layout_marginStart="5.0dip" android:backgroundTint="#ffffffff" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView android:textSize="13.0sp" android:textColor="#ff555555" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090144" android:background="#ffffffff" android:padding="14.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="使用说明" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Navigasi laman utama</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Navigasi ke atas</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Lagi pilihan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Selesai</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Lihat semua</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Pilih apl</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">MATI</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">HIDUP</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Fungsi+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">ruang</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Cari…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Kosongkan pertanyaan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Pertanyaan carian</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Cari</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Serah pertanyaan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Carian suara</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Kongsi dengan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Kongsi dengan %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Runtuhkan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Terperinci</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Cari</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">MATI</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">HIDUP</string>
+</resources>

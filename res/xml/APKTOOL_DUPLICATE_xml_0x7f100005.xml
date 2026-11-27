@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <SwitchPreferenceCompat android:title="Enable notifications" android:key="notifications" android:defaultValue="true" />
+    <EditTextPreference android:title="Signature" android:key="signature" android:defaultValue="Your signature" />
+</PreferenceScreen>

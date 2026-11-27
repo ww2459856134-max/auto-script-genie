@@ -1,0 +1,67 @@
+package org.apache.xmlbeans.impl.xb.xsdschema;
+
+import org.apache.xmlbeans.SchemaType;
+import org.apache.xmlbeans.StringEnumAbstractBase;
+import org.apache.xmlbeans.XmlAnySimpleType;
+import org.apache.xmlbeans.XmlNMTOKEN;
+import org.apache.xmlbeans.impl.schema.ElementFactory;
+import org.apache.xmlbeans.impl.schema.SimpleTypeFactory;
+import org.apache.xmlbeans.metadata.system.sXMLSCHEMA.TypeSystemHolder;
+
+/* loaded from: classes2.dex */
+public interface AllNNI extends XmlAnySimpleType {
+    public static final SimpleTypeFactory<AllNNI> Factory;
+    public static final SchemaType type;
+
+    public interface Member extends XmlNMTOKEN {
+        public static final ElementFactory<Member> Factory;
+        public static final int INT_UNBOUNDED = 1;
+        public static final Enum UNBOUNDED;
+        public static final SchemaType type;
+
+        public static final class Enum extends StringEnumAbstractBase {
+            static final int INT_UNBOUNDED = 1;
+            private static final long serialVersionUID = 1;
+            public static final StringEnumAbstractBase.Table table = new StringEnumAbstractBase.Table(new Enum[]{new Enum("unbounded", 1)});
+
+            private Enum(String str, int i2) {
+                super(str, i2);
+            }
+
+            public static Enum forInt(int i2) {
+                return (Enum) table.forInt(i2);
+            }
+
+            public static Enum forString(String str) {
+                return (Enum) table.forString(str);
+            }
+
+            private Object readResolve() {
+                return forInt(intValue());
+            }
+        }
+
+        static {
+            ElementFactory<Member> elementFactory = new ElementFactory<>(TypeSystemHolder.typeSystem, "anon0330type");
+            Factory = elementFactory;
+            type = elementFactory.getType();
+            UNBOUNDED = Enum.forString("unbounded");
+        }
+
+        StringEnumAbstractBase getEnumValue();
+
+        void setEnumValue(StringEnumAbstractBase stringEnumAbstractBase);
+    }
+
+    static {
+        SimpleTypeFactory<AllNNI> simpleTypeFactory = new SimpleTypeFactory<>(TypeSystemHolder.typeSystem, "allnni78cbtype");
+        Factory = simpleTypeFactory;
+        type = simpleTypeFactory.getType();
+    }
+
+    Object getObjectValue();
+
+    SchemaType instanceType();
+
+    void setObjectValue(Object obj);
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Gaan na tuisskerm</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Gaan op</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Nog opsies</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Klaar</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Sien alles</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">"Kies 'n program"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">AF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">AAN</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Funksie+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">spasiebalk</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Simbool+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Kieslys+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Soek …</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Vee navraag uit</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Soektognavraag</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Soek</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Dien navraag in</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Stemsoektog</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Deel met</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Deel met %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Vou in</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Gevorderd</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Soek</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">AF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">AAN</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Boshiga o‘tish</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Yopish</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Yana</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">OK</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Hammasi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Ilovani tanlang</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">YOQILMAGAN</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">YONIQ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">Delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Fn+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">Probel</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menyu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Qidirish…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">So‘rovni o‘chirish</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Qidiruv so‘rovi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Qidiruv</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">So‘rov yaratish</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Ovozli qidiruv</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Ulashish</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s orqali ulashish</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Yig‘ish</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Kengaytirilgan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Qidiruv</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">YOQILMAGAN</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">YONIQ</string>
+</resources>

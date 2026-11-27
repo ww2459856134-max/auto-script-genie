@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080071" android:paddingLeft="16.0dip" android:paddingTop="12.0dip" android:paddingRight="14.0dip" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="4.0dip" android:layout_marginBottom="4.0dip" android:foreground="?android:selectableItemBackground" android:minHeight="72.0dip" android:layout_marginHorizontal="4.0dip" android:layout_marginVertical="4.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f09024e" android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0800e2" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f06004e" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="播放教程" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="14.0dip" android:layout_toLeftOf="@id/APKTOOL_DUPLICATE_id_0x7f09024e" android:layout_centerVertical="true">
+        <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:ellipsize="end" android:id="@id/APKTOOL_DUPLICATE_id_0x7f090407" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" />
+        <TextView android:textSize="12.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060047" android:ellipsize="end" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0903bf" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:maxLines="2" />
+    </LinearLayout>
+</RelativeLayout>

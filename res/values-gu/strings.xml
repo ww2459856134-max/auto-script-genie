@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">ઘરનો રસ્તો બતાવો</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">ઉપર નૅવિગેટ કરો</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">વધુ વિકલ્પો</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">થઈ ગયું</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">બધી જુઓ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">ઍપ્લિકેશન પસંદ કરો</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">બંધ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ચાલુ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">શોધો…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">ક્વેરી સાફ કરો</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">શોધ ક્વેરી</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">શોધો</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">ક્વેરી સબમિટ કરો</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">વૉઇસ શોધ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">આની સાથે શેર કરો</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%sની સાથે શેર કરો</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">સંકુચિત કરો</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">વિગતવાર</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">શોધો</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">બંધ કરો</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ચાલુ કરો</string>
+</resources>

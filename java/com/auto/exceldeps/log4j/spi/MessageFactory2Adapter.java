@@ -1,0 +1,91 @@
+package com.auto.exceldeps.log4j.spi;
+
+import com.auto.exceldeps.log4j.message.Message;
+import com.auto.exceldeps.log4j.message.MessageFactory;
+import com.auto.exceldeps.log4j.message.MessageFactory2;
+import com.auto.exceldeps.log4j.message.SimpleMessage;
+import java.util.Objects;
+
+/* loaded from: classes.dex */
+public class MessageFactory2Adapter implements MessageFactory2 {
+    private final MessageFactory wrapped;
+
+    public MessageFactory2Adapter(MessageFactory messageFactory) {
+        Objects.requireNonNull(messageFactory);
+        this.wrapped = messageFactory;
+    }
+
+    public MessageFactory getOriginal() {
+        return this.wrapped;
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory2
+    public Message newMessage(CharSequence charSequence) {
+        return new SimpleMessage(charSequence);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory2
+    public Message newMessage(String str, Object obj) {
+        return this.wrapped.newMessage(str, obj);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory2
+    public Message newMessage(String str, Object obj, Object obj2) {
+        return this.wrapped.newMessage(str, obj, obj2);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory2
+    public Message newMessage(String str, Object obj, Object obj2, Object obj3) {
+        return this.wrapped.newMessage(str, obj, obj2, obj3);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory2
+    public Message newMessage(String str, Object obj, Object obj2, Object obj3, Object obj4) {
+        return this.wrapped.newMessage(str, obj, obj2, obj3, obj4);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory2
+    public Message newMessage(String str, Object obj, Object obj2, Object obj3, Object obj4, Object obj5) {
+        return this.wrapped.newMessage(str, obj, obj2, obj3, obj4, obj5);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory2
+    public Message newMessage(String str, Object obj, Object obj2, Object obj3, Object obj4, Object obj5, Object obj6) {
+        return this.wrapped.newMessage(str, obj, obj2, obj3, obj4, obj5, obj6);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory2
+    public Message newMessage(String str, Object obj, Object obj2, Object obj3, Object obj4, Object obj5, Object obj6, Object obj7) {
+        return this.wrapped.newMessage(str, obj, obj2, obj3, obj4, obj5, obj6, obj7);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory2
+    public Message newMessage(String str, Object obj, Object obj2, Object obj3, Object obj4, Object obj5, Object obj6, Object obj7, Object obj8) {
+        return this.wrapped.newMessage(str, obj, obj2, obj3, obj4, obj5, obj6, obj7, obj8);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory2
+    public Message newMessage(String str, Object obj, Object obj2, Object obj3, Object obj4, Object obj5, Object obj6, Object obj7, Object obj8, Object obj9) {
+        return this.wrapped.newMessage(str, obj, obj2, obj3, obj4, obj5, obj6, obj7, obj8, obj9);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory2
+    public Message newMessage(String str, Object obj, Object obj2, Object obj3, Object obj4, Object obj5, Object obj6, Object obj7, Object obj8, Object obj9, Object obj10) {
+        return this.wrapped.newMessage(str, obj, obj2, obj3, obj4, obj5, obj6, obj7, obj8, obj9, obj10);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory
+    public Message newMessage(Object obj) {
+        return this.wrapped.newMessage(obj);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory
+    public Message newMessage(String str) {
+        return this.wrapped.newMessage(str);
+    }
+
+    @Override // com.auto.exceldeps.log4j.message.MessageFactory
+    public Message newMessage(String str, Object... objArr) {
+        return this.wrapped.newMessage(str, objArr);
+    }
+}

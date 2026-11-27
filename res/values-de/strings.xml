@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Zur Startseite</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Nach oben</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Weitere Optionen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Fertig</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Alle anzeigen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">App auswählen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">AUS</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">AN</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Strg +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">Löschen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">Eingabetaste</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Funktionstaste +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta-Taste +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Umschalttaste +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">Leertaste</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym-Taste +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menütaste +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Suchen…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Suchanfrage löschen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Suchanfrage</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Suche</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Anfrage senden</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Sprachsuche</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Teilen mit</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Mit %s teilen</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Minimieren</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Erweitert</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Suche</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">AUS</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">EIN</string>
+</resources>

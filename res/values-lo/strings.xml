@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">ກັບໄປໜ້າຫຼັກ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">ເລື່ອນຂຶ້ນເທິງ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">ຕົວເລືອກເພີ່ມເຕີມ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">ແລ້ວໆ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">ເບິ່ງທັງໝົດ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">ເລືອກແອັບ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ປິດ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ເປີດ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">ລຶບ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">ຍະຫວ່າງ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">ຊອກຫາ…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">ລຶບຂໍ້ຄວາມຊອກຫາ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">ຄຳສຳລັບຄົ້ນຫາ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">ຊອກຫາ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">ສົ່ງຂໍ້ມູນ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">ຊອກຫາດ້ວຍສຽງ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">ແບ່ງປັນກັບ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">ແບ່ງປັນດ້ວຍ %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">ຫຍໍ້ລົງ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">ຂັ້ນສູງ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">ຊອກຫາ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ປິດ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ເປີດ</string>
+</resources>

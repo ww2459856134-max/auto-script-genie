@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Башкы бетке чабыттоо</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Мурунку экранга өтүү</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Дагы параметрлер</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Бүттү</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Баарын көрүү</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Колдонмо тандоо</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ӨЧҮК</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">КҮЙҮК</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">боштук</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Издөө…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Сурамды өчүрүү</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Изделген сурам</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Издөө</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Сурам тапшыруу</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Айтып издөө</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Төмөнкү менен бөлүшүү</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%s аркылуу бөлүшүү</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Жыйыштыруу</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Өркүндөтүлгөн</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Издөө</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ӨЧҮК</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">КҮЙҮК</string>
+</resources>

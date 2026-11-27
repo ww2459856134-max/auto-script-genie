@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Pārvietoties uz sākuma ekrānu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Pārvietoties uz augšu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Citas opcijas</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Gatavs</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Skatīt visu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Izvēlieties lietotni</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">IZSLĒGT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">IESLĒGT</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alternēšanas taustiņš +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Vadīšanas taustiņš +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">dzēšanas taustiņš</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">ievadīšanas taustiņš</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Funkcijas taustiņš +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta taustiņš +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Pārslēgšanas taustiņš +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">atstarpes taustiņš</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Simbolu taustiņš +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Poga Izvēlne +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Meklējiet…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Notīrīt vaicājumu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Meklēšanas vaicājums</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Meklēt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Iesniegt vaicājumu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Meklēt ar balsi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Kopīgot ar:</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Kopīgot ar lietojumprogrammu %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Sakļaut</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Papildu iestatījumi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Meklēt</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">IZSLĒGTS</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">IESLĒGTS</string>
+</resources>

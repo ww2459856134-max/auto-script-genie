@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Siirry etusivulle</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Siirry ylös</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Lisäasetukset</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Valmis</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Näytä kaikki</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Valitse sovellus</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">POIS PÄÄLTÄ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">PÄÄLLÄ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Fn+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Vaihto+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">välilyönti</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Valikko+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Haku…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Tyhjennä kysely</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Hakukysely</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Haku</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Lähetä kysely</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Puhehaku</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Jaa…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Jaa: %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Tiivistä</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Lisäasetukset</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Haku</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">POIS KÄYTÖSTÄ</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">KÄYTÖSSÄ</string>
+</resources>

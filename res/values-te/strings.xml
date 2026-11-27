@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">హోమ్‌కు నావిగేట్ చేస్తుంది</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">పైకి నావిగేట్ చేస్తుంది</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">మరిన్ని ఎంపికలు</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">పూర్తయింది</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">అన్నీ చూడండి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">యాప్‌ను ఎంచుకోండి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">ఆఫ్</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">ఆన్</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">స్పేస్</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">వెతకండి…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">ప్రశ్నను తీసివేస్తుంది</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">శోధన ప్రశ్న</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">సెర్చ్</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">ప్రశ్నని సమర్పిస్తుంది</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">వాయిస్ శోధన</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">వీరితో షేర్ చేస్తుంది</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">%sతో షేర్ చేస్తుంది</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">కుదిస్తుంది</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">అధునాతన</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">సెర్చ్</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">ఆఫ్ చేయండి</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">ఆన్ చేయండి</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0800bb" android:paddingTop="50.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06003b" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09036a" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="图片预览" />
+    <TextView android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06003b" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09012d" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="15.0dip" android:text="关闭" android:layout_alignParentRight="true" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="50.0dip" android:fillViewport="true">
+        <HorizontalScrollView android:layout_width="wrap_content" android:layout_height="wrap_content" android:fillViewport="true">
+            <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f090235" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="true" android:contentDescription="@null" />
+        </HorizontalScrollView>
+    </ScrollView>
+</RelativeLayout>

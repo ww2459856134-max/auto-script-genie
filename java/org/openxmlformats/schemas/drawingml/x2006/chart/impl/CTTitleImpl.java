@@ -1,0 +1,301 @@
+package org.openxmlformats.schemas.drawingml.x2006.chart.impl;
+
+import org.apache.poi.javax.xml.namespace.QName;
+import org.apache.xmlbeans.SchemaType;
+import org.apache.xmlbeans.impl.values.XmlComplexContentImpl;
+import org.openxmlformats.schemas.drawingml.x2006.chart.CTBoolean;
+import org.openxmlformats.schemas.drawingml.x2006.chart.CTExtensionList;
+import org.openxmlformats.schemas.drawingml.x2006.chart.CTLayout;
+import org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle;
+import org.openxmlformats.schemas.drawingml.x2006.chart.CTTx;
+import org.openxmlformats.schemas.drawingml.x2006.main.CTShapeProperties;
+import org.openxmlformats.schemas.drawingml.x2006.main.CTTextBody;
+
+/* loaded from: classes2.dex */
+public class CTTitleImpl extends XmlComplexContentImpl implements CTTitle {
+    private static final QName[] PROPERTY_QNAME = {new QName("http://schemas.openxmlformats.org/drawingml/2006/chart", "tx"), new QName("http://schemas.openxmlformats.org/drawingml/2006/chart", "layout"), new QName("http://schemas.openxmlformats.org/drawingml/2006/chart", "overlay"), new QName("http://schemas.openxmlformats.org/drawingml/2006/chart", "spPr"), new QName("http://schemas.openxmlformats.org/drawingml/2006/chart", "txPr"), new QName("http://schemas.openxmlformats.org/drawingml/2006/chart", "extLst")};
+    private static final long serialVersionUID = 1;
+
+    public CTTitleImpl(SchemaType schemaType) {
+        super(schemaType);
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public CTExtensionList addNewExtLst() {
+        CTExtensionList cTExtensionList;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTExtensionList = (CTExtensionList) get_store().add_element_user(PROPERTY_QNAME[5]);
+        }
+        return cTExtensionList;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public CTLayout addNewLayout() {
+        CTLayout cTLayout;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTLayout = (CTLayout) get_store().add_element_user(PROPERTY_QNAME[1]);
+        }
+        return cTLayout;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public CTBoolean addNewOverlay() {
+        CTBoolean cTBoolean;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTBoolean = (CTBoolean) get_store().add_element_user(PROPERTY_QNAME[2]);
+        }
+        return cTBoolean;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public CTShapeProperties addNewSpPr() {
+        CTShapeProperties cTShapeProperties;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTShapeProperties = (CTShapeProperties) get_store().add_element_user(PROPERTY_QNAME[3]);
+        }
+        return cTShapeProperties;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public CTTx addNewTx() {
+        CTTx cTTx;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTTx = (CTTx) get_store().add_element_user(PROPERTY_QNAME[0]);
+        }
+        return cTTx;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public CTTextBody addNewTxPr() {
+        CTTextBody cTTextBody;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTTextBody = (CTTextBody) get_store().add_element_user(PROPERTY_QNAME[4]);
+        }
+        return cTTextBody;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public CTExtensionList getExtLst() {
+        CTExtensionList cTExtensionList;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTExtensionList = (CTExtensionList) get_store().find_element_user(PROPERTY_QNAME[5], 0);
+            if (cTExtensionList == null) {
+                cTExtensionList = null;
+            }
+        }
+        return cTExtensionList;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public CTLayout getLayout() {
+        CTLayout cTLayout;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTLayout = (CTLayout) get_store().find_element_user(PROPERTY_QNAME[1], 0);
+            if (cTLayout == null) {
+                cTLayout = null;
+            }
+        }
+        return cTLayout;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public CTBoolean getOverlay() {
+        CTBoolean cTBoolean;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTBoolean = (CTBoolean) get_store().find_element_user(PROPERTY_QNAME[2], 0);
+            if (cTBoolean == null) {
+                cTBoolean = null;
+            }
+        }
+        return cTBoolean;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public CTShapeProperties getSpPr() {
+        CTShapeProperties cTShapeProperties;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTShapeProperties = (CTShapeProperties) get_store().find_element_user(PROPERTY_QNAME[3], 0);
+            if (cTShapeProperties == null) {
+                cTShapeProperties = null;
+            }
+        }
+        return cTShapeProperties;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public CTTx getTx() {
+        CTTx cTTx;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTTx = (CTTx) get_store().find_element_user(PROPERTY_QNAME[0], 0);
+            if (cTTx == null) {
+                cTTx = null;
+            }
+        }
+        return cTTx;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public CTTextBody getTxPr() {
+        CTTextBody cTTextBody;
+        synchronized (monitor()) {
+            check_orphaned();
+            cTTextBody = (CTTextBody) get_store().find_element_user(PROPERTY_QNAME[4], 0);
+            if (cTTextBody == null) {
+                cTTextBody = null;
+            }
+        }
+        return cTTextBody;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public boolean isSetExtLst() {
+        boolean z;
+        synchronized (monitor()) {
+            check_orphaned();
+            z = get_store().count_elements(PROPERTY_QNAME[5]) != 0;
+        }
+        return z;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public boolean isSetLayout() {
+        boolean z;
+        synchronized (monitor()) {
+            check_orphaned();
+            z = true;
+            if (get_store().count_elements(PROPERTY_QNAME[1]) == 0) {
+                z = false;
+            }
+        }
+        return z;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public boolean isSetOverlay() {
+        boolean z;
+        synchronized (monitor()) {
+            check_orphaned();
+            z = get_store().count_elements(PROPERTY_QNAME[2]) != 0;
+        }
+        return z;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public boolean isSetSpPr() {
+        boolean z;
+        synchronized (monitor()) {
+            check_orphaned();
+            z = get_store().count_elements(PROPERTY_QNAME[3]) != 0;
+        }
+        return z;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public boolean isSetTx() {
+        boolean z;
+        synchronized (monitor()) {
+            check_orphaned();
+            z = get_store().count_elements(PROPERTY_QNAME[0]) != 0;
+        }
+        return z;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public boolean isSetTxPr() {
+        boolean z;
+        synchronized (monitor()) {
+            check_orphaned();
+            z = get_store().count_elements(PROPERTY_QNAME[4]) != 0;
+        }
+        return z;
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public void setExtLst(CTExtensionList cTExtensionList) throws Throwable {
+        generatedSetterHelperImpl(cTExtensionList, PROPERTY_QNAME[5], 0, (short) 1);
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public void setLayout(CTLayout cTLayout) throws Throwable {
+        generatedSetterHelperImpl(cTLayout, PROPERTY_QNAME[1], 0, (short) 1);
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public void setOverlay(CTBoolean cTBoolean) throws Throwable {
+        generatedSetterHelperImpl(cTBoolean, PROPERTY_QNAME[2], 0, (short) 1);
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public void setSpPr(CTShapeProperties cTShapeProperties) throws Throwable {
+        generatedSetterHelperImpl(cTShapeProperties, PROPERTY_QNAME[3], 0, (short) 1);
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public void setTx(CTTx cTTx) throws Throwable {
+        generatedSetterHelperImpl(cTTx, PROPERTY_QNAME[0], 0, (short) 1);
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public void setTxPr(CTTextBody cTTextBody) throws Throwable {
+        generatedSetterHelperImpl(cTTextBody, PROPERTY_QNAME[4], 0, (short) 1);
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public void unsetExtLst() {
+        synchronized (monitor()) {
+            check_orphaned();
+            get_store().remove_element(PROPERTY_QNAME[5], 0);
+        }
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public void unsetLayout() {
+        synchronized (monitor()) {
+            check_orphaned();
+            get_store().remove_element(PROPERTY_QNAME[1], 0);
+        }
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public void unsetOverlay() {
+        synchronized (monitor()) {
+            check_orphaned();
+            get_store().remove_element(PROPERTY_QNAME[2], 0);
+        }
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public void unsetSpPr() {
+        synchronized (monitor()) {
+            check_orphaned();
+            get_store().remove_element(PROPERTY_QNAME[3], 0);
+        }
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public void unsetTx() {
+        synchronized (monitor()) {
+            check_orphaned();
+            get_store().remove_element(PROPERTY_QNAME[0], 0);
+        }
+    }
+
+    @Override // org.openxmlformats.schemas.drawingml.x2006.chart.CTTitle
+    public void unsetTxPr() {
+        synchronized (monitor()) {
+            check_orphaned();
+            get_store().remove_element(PROPERTY_QNAME[4], 0);
+        }
+    }
+}

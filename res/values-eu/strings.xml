@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Joan orri nagusira</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Joan gora</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Aukera gehiago</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Eginda</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Ikusi guztiak</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Aukeratu aplikazio bat</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">DESAKTIBATU</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">AKTIBATU</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ktrl +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">ezabatu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">sartu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Funtzioa +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Maius +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">zuriunea</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menua +</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Bilatu…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Garbitu kontsulta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Bilaketa-kontsulta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Bilatu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Bidali kontsulta</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Ahozko bilaketa</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Partekatu honekin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Partekatu %s aplikazioarekin</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Tolestu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Hobespen aurreratuak</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Bilatu</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">DESAKTIBATUTA</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">AKTIBATUTA</string>
+</resources>

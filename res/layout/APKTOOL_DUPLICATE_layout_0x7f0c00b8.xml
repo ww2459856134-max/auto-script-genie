@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f090186" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:adjustViewBounds="true" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:layout_marginHorizontal="10.0dip" />
+    <TextView android:textSize="15.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06008a" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f09010e" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080092" android:visibility="gone" android:layout_width="130.0dip" android:layout_height="40.0dip" android:layout_marginBottom="40.0dip" android:text="立即体验" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    <com.airbnb.lottie.LottieAnimationView android:id="@id/APKTOOL_DUPLICATE_id_0x7f090042" android:visibility="gone" android:layout_width="350.0dip" android:layout_height="160.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" app:APKTOOL_DUPLICATE_attr_0x7f0400e5="true" app:APKTOOL_DUPLICATE_attr_0x7f0400ea="huadongshoushi.json" app:APKTOOL_DUPLICATE_attr_0x7f0400ec="true" />
+</RelativeLayout>

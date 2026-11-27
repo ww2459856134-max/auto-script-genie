@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="300.0dip" android:layout_height="350.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0800b3" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="140.0dip" android:layout_marginTop="120.0dip" />
+    <RelativeLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f090240" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <View android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0800b5" android:layout_width="25.0dip" android:layout_height="25.0dip" android:layout_marginLeft="142.5dip" android:layout_marginTop="122.5dip" />
+        <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f090242" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginLeft="140.0dip" android:layout_marginTop="132.0dip" android:src="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080135" />
+    </RelativeLayout>
+    <TextView android:textSize="18.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06008a" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0903dd" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="拖动小球\n实现系统“返回”按钮" android:layout_centerHorizontal="true" />
+    <TextView android:textSize="13.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06008a" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0903c2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="15.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

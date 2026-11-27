@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Tunjukkan jalan ke rumah</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0001">Kembali ke atas</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0002">Opsi lain</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0003">Selesai</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0004">Lihat semua</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0005">Pilih aplikasi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0006">NONAKTIF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0007">AKTIF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d000f">spasi</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0012">Telusuri...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0013">Hapus kueri</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0014">Telusuri kueri</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0015">Telusuri</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0016">Kirim kueri</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0017">Penelusuran suara</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0018">Bagikan dengan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0019">Bagikan dengan %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d001a">Ciutkan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0037">Lanjutan</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0083">Telusuri</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0087">999+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d008b">%1$s, %2$s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0091">NONAKTIF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f0d0092">AKTIF</string>
+</resources>
